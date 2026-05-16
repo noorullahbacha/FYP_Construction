@@ -147,23 +147,43 @@ The system supports:
 # Screenshots
 
 ## Landing Page
+
+<img width="1891" height="802" alt="03PRC" src="https://github.com/user-attachments/assets/a5253578-549f-4158-bbfd-36ab0035e7fe" />
+
 <img width="1902" height="816" alt="01" src="https://github.com/user-attachments/assets/f3d45c11-1c72-45c6-93ce-fd790e60e60a" />
+.
+.
+<img width="1900" height="814" alt="02 PRC" src="https://github.com/user-attachments/assets/e277297a-e947-4713-bc38-cff456c4575b" />
+
 
 
 ## Admin Dashboard
-(Add screenshot here)
+<img width="1894" height="805" alt="04 PRC" src="https://github.com/user-attachments/assets/6eba8dd3-336b-44c8-9781-8bf74ab68e56" />
+
+
 
 ## Product Management
-(Add screenshot here)
+<img width="1891" height="754" alt="05PRC " src="https://github.com/user-attachments/assets/f2176fdf-aa6e-41e3-805b-edc22b9de3b9" />
+
+<img width="1899" height="807" alt="10PRC " src="https://github.com/user-attachments/assets/c396b406-cc76-4a41-b1d2-37d811f64bcb" />
+
+<img width="1789" height="796" alt="11PRC" src="https://github.com/user-attachments/assets/f1e5da0c-599f-4dd0-b869-47a4b5e43845" />
+
 
 ## Construction Packages
-(Add screenshot here)
+<img width="1893" height="793" alt="6PRC" src="https://github.com/user-attachments/assets/824d6fdf-b6a3-446f-8e8c-1134c1c3f9c2" />
+
 
 ## Construction Calculator
-(Add screenshot here)
+<img width="1906" height="805" alt="07PRC" src="https://github.com/user-attachments/assets/c40b745e-a74e-4b96-98a7-e5b253cf5d64" />
+
 
 ## Vehicle & Machinery Module
-(Add screenshot here)
+<img width="838" height="856" alt="08PRc" src="https://github.com/user-attachments/assets/8ef47890-f6d4-45ed-b425-f3dfe4f29b37" />
+
+## Orders
+<img width="1887" height="820" alt="09PRC" src="https://github.com/user-attachments/assets/a4e8f884-1fd6-467b-bcb0-88506c93ae43" />
+
 
 ---
 
@@ -176,14 +196,9 @@ Watch Project Demonstration Here:
 ---
 
 # System Architecture
+<img width="993" height="712" alt="12PRC" src="https://github.com/user-attachments/assets/467ddc1a-0737-4721-991f-61220fd5ea02" />
 
-(Add architecture diagram here)
 
----
-
-# Use Case Diagrams
-
-(Add use case diagrams here)
 
 ---
 
@@ -215,7 +230,7 @@ This repository is intended to showcase:
 
 # Author
 
-Noor Bacha
+Noor Ullah Bacha
 
 ## Skills
 - MERN Stack Development
@@ -223,7 +238,7 @@ Noor Bacha
 - Node.js
 - Express.js
 - MongoDB
-- Tailwind CSS
+- Bootstrap
 - Redux Toolkit
 - Cybersecurity
 - Machine Learning Research
